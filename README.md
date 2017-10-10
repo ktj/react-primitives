@@ -33,6 +33,10 @@ const styles = StyleSheet.create({
 });
 ```
 
+## See also
+Styled components wrapper for react-brimitives
+[styled-primitives](https://github.com/ktj/styled-primitives)
+
 
 ## What is this?
 
@@ -58,6 +62,6 @@ In the future, a `TextInput` component may also be added.
 
 ## Props where props are due
 
-This library was largely inspired from the work done by [Nicolas Gallager](https://github.com/necolas) 
+This library was largely inspired from the work done by [Nicolas Gallager](https://github.com/necolas)
 and his great work on the [react-native-web](https://github.com/necolas/react-native-web) library. A few of the files
 in this repo are even copied directly from his project.
