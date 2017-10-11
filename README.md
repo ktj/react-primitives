@@ -12,7 +12,7 @@ npm i --save react-brimitives
 
 ```jsx
 import React from 'react';
-import { View, Text, Image, StyleSheet } from 'react-primitives';
+import { View, Text, Image, StyleSheet } from 'react-brimitives';
 
 class Foo extends React.Component {
   render() {
