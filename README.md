@@ -5,7 +5,7 @@ Primitive React Interfaces Across Targets
 ## Installation
 
 ```sh
-npm i --save react-primitives
+npm i --save react-brimitives
 ```
 
 ### Usage
