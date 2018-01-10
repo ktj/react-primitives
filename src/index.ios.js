@@ -1,3 +1,27 @@
-require('./injection/react-native');
+import  {
+  StyleSheet,
+  View,
+  Text,
+  Image,
+  Touchable,
+  Easing,
+  Animated,
+  Dimensions,
+  PixelRatio,
+  Platform,
+} from 'react-native';
 
-module.exports = require('./ReactPrimitives');
+const ReactPrimitives = {
+  StyleSheet,
+  View,
+  Text,
+  Image,
+  Touchable,
+  Easing,
+  Animated,
+  Dimensions,
+  PixelRatio,
+  Platform,
+};
+
+export default ReactPrimitives;

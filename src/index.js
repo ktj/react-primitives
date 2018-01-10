@@ -1,3 +1,27 @@
-require('./injection/react-native-web');
+import  {
+  StyleSheet,
+  View,
+  Text,
+  Image,
+  Touchable,
+  Easing,
+  Animated,
+  Dimensions,
+  PixelRatio,
+  Platform,
+} from 'react-native-web';
 
-module.exports = require('./ReactPrimitives');
+const ReactPrimitives = {
+  StyleSheet,
+  View,
+  Text,
+  Image,
+  Touchable,
+  Easing,
+  Animated,
+  Dimensions,
+  PixelRatio,
+  Platform,
+};
+
+export default ReactPrimitives;
