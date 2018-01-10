@@ -11,7 +11,7 @@ import  {
   Platform,
 } from 'react-native';
 
-const ReactPrimitives = {
+export {
   StyleSheet,
   View,
   Text,
@@ -23,5 +23,3 @@ const ReactPrimitives = {
   PixelRatio,
   Platform,
 };
-
-export default ReactPrimitives;
